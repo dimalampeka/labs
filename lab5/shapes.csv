@@ -1,0 +1,7 @@
+type,length,width,radius,a,b,c,side
+circle,,,5,,,
+rectangle,4,6,,,,
+square,,,,,,3
+triangle,,,,3,4,5,
+cube,,,,,,,3
+sphere,,,3,,,
